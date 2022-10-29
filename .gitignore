@@ -1,0 +1,10 @@
+temp/
+Зміни/
+На_погодження/
+*.err
+*.bak
+*.doc
+*.docx
+*.dsd
+*.xls
+*.xlsx
